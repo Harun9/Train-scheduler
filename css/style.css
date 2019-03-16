@@ -1,0 +1,11 @@
+    body {
+    background-color: black;
+    padding: 10px;
+    margin: auto;
+    text-decoration: blueviolet;
+}
+
+.panel-title {
+    padding: 25px;
+    text-justify: auto;
+    margin: 10px;
